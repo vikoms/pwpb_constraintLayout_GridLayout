@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:columnCount="4"
+    android:orientation="horizontal"
+    android:rowCount="3">
+
+
+    <TextView
+        android:textColor="@android:color/black"
+        android:padding="30dp"
+        android:gravity="center"
+        android:text="A" />
+
+    <TextView
+        android:textColor="@android:color/black"
+        android:padding="30dp"
+        android:gravity="center"
+        android:text="B" />
+
+    <TextView
+        android:textColor="@android:color/black"
+        android:padding="30dp"
+        android:gravity="center"
+        android:text="C" />
+
+    <TextView
+        android:textColor="@android:color/black"
+        android:padding="30dp"
+        android:gravity="center"
+        android:text="D" />
+
+    <TextView
+        android:textColor="@android:color/black"
+        android:padding="30dp"
+        android:gravity="center"
+        android:text="E" />
+
+    <TextView
+        android:textColor="@android:color/black"
+        android:padding="30dp"
+        android:gravity="center"
+        android:text="F" />
+
+    <TextView
+        android:textColor="@android:color/black"
+        android:padding="30dp"
+        android:gravity="center"
+        android:text="G" />
+
+    <TextView
+        android:textColor="@android:color/black"
+        android:padding="30dp"
+        android:gravity="center"
+        android:text="H" />
+
+    <TextView
+        android:textColor="@android:color/black"
+        android:padding="30dp"
+        android:gravity="center"
+        android:text="I" />
+
+    <TextView
+        android:textColor="@android:color/black"
+        android:padding="30dp"
+        android:gravity="center"
+        android:text="J" />
+
+    <TextView
+        android:textColor="@android:color/black"
+        android:padding="30dp"
+        android:gravity="center"
+        android:text="K" />
+
+    <TextView
+        android:textColor="@android:color/black"
+        android:padding="30dp"
+        android:gravity="center"
+        android:text="L" />
+
+
+</GridLayout>
